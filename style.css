@@ -1,0 +1,17 @@
+/* Regular */
+@font-face {
+    font-family: 'Aref Ruqaa Ink';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('https://github.com/jasoncysiu/aref_RuqaaInk/raw/main/ArefRuqaaInk-Regular.ttf') format('truetype');
+}
+
+/* Bold */
+@font-face {
+    font-family: 'Aref Ruqaa Ink';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('https://github.com/jasoncysiu/aref_RuqaaInk/raw/main/ArefRuqaaInk-Bold.ttf') format('truetype');
+}
